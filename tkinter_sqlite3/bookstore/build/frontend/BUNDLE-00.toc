@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/beloveolusola/Desktop/tkinter_sqlite3/dist/frontend',
+   'EXECUTABLE')],)
